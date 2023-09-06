@@ -1,9 +1,4 @@
 // String Code Challenge:
-// Find out the type of the variable coder
-// Find out the length of the variable coder
-// Convert to all uppercase
-// Convert to all lowercase
-// Find out if it includes the word ‘good’
 // Strip out the word  ‘programmer’ from variable
 // Find out if variables ends with the word `programmer`
 // Split the variable into two variable at `good` word 
@@ -14,4 +9,19 @@
 
 // Declare a new string variable with name coder and set value to 'I am a good programmer'
 let coder = 'I am a good programmer';
-console.log(coder);
+//console.log(coder);
+
+// Find out the type of the variable coder
+//console.log(typeof(coder));
+
+// Find out the length of the variable coder
+console.log(coder.length);
+
+// Convert to all uppercase
+console.log(coder.toUpperCase());
+
+// Convert to all lowercase
+console.log(coder.toLocaleLowerCase());
+
+// Find out if it includes the word ‘good’
+
