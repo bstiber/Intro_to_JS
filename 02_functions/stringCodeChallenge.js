@@ -34,11 +34,11 @@
 // let word = myArray[1];
 // console.log(word);
 
-// let coder = 'I am a good programmer';
+let coder = 'I am a good programmer';
 
-// let myArray = coder.split(" ");
-// let word = myArray[4];
-// console.log(word);
+let myArray = coder.split(" ");
+let word = myArray[4];
+console.log(word);
 
 
 
